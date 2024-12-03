@@ -6,5 +6,7 @@ public class test {
         System.out.println("test");
 
         // from test_qa_1 branch
+
+        // second commit
     }
 }
